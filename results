@@ -1,0 +1,150 @@
+--1000
+Array push front for: 1000 elements is 3096 ns
+Array push back for: 1000 elements is 3098 ns
+Array insert for: 1000 elements is 3191 ns
+Array delete front for: 1000 elements is 2823 ns
+Array delete back for: 1000 elements is 2789 ns
+Array delete at position for: 1000 elements is 3288 ns
+Array search for: 1000 elements is 2574 ns
+
+List push front for: 1000 elements is 77 ns
+List push back for: 1000 elements is 63 ns
+List insert before for: 1000 elements is 62 ns
+List insert after for: 1000 elements is 61 ns
+List pop front for: 1000 elements is 46 ns
+List pop back for: 1000 elements is 47 ns
+List delete after a node for: 1000 elements is 47 ns
+List delete before a node for: 1000 elements is 58 ns
+List delete node for: 1000 elements is 164 ns
+List search for: 1000 elements is 2424 ns
+
+Heap insert for: 1000 elements is 3177 ns
+Heap delete max for: 1000 elements is 3226 ns
+Heap delete val for: 1000 elements is 2727 ns
+Heap find max for: 1000 elements is 35 ns
+Heap extract max for: 1000 elements is 3238 ns
+
+Rb tree insert for: 1000 elements is 293 ns
+Rb tree delete root for: 1000 elements is 151 ns
+Rb tree delete node for: 1000 elements is 149 ns
+Rb tree search val for: 1000 elements is 165 ns
+--1500
+Array push front for: 1500 elements is 4560 ns
+Array push back for: 1500 elements is 4537 ns
+Array insert for: 1500 elements is 4711 ns
+Array delete front for: 1500 elements is 4315 ns
+Array delete back for: 1500 elements is 4276 ns
+Array delete at position for: 1500 elements is 4889 ns
+Array search for: 1500 elements is 3933 ns
+
+List push front for: 1500 elements is 75 ns
+List push back for: 1500 elements is 62 ns
+List insert before for: 1500 elements is 59 ns
+List insert after for: 1500 elements is 62 ns
+List pop front for: 1500 elements is 47 ns
+List pop back for: 1500 elements is 47 ns
+List delete after a node for: 1500 elements is 47 ns
+List delete before a node for: 1500 elements is 46 ns
+List delete node for: 1500 elements is 164 ns
+List search for: 1500 elements is 80 ns
+
+Heap insert for: 1500 elements is 4547 ns
+Heap delete max for: 1500 elements is 4681 ns
+Heap delete val for: 1500 elements is 4029 ns
+Heap find max for: 1500 elements is 34 ns
+Heap extract max for: 1500 elements is 4683 ns
+
+Rb tree insert for: 1500 elements is 246 ns
+Rb tree delete root for: 1500 elements is 144 ns
+Rb tree delete node for: 1500 elements is 144 ns
+Rb tree search val for: 1500 elements is 178 ns
+--2000
+Array push front for: 2000 elements is 5919 ns
+Array push back for: 2000 elements is 5913 ns
+Array insert for: 2000 elements is 6127 ns
+Array delete front for: 2000 elements is 6188 ns
+Array delete back for: 2000 elements is 5598 ns
+Array delete at position for: 2000 elements is 6349 ns
+Array search for: 2000 elements is 5156 ns
+
+List push front for: 2000 elements is 100 ns
+List push back for: 2000 elements is 64 ns
+List insert before for: 2000 elements is 60 ns
+List insert after for: 2000 elements is 61 ns
+List pop front for: 2000 elements is 46 ns
+List pop back for: 2000 elements is 45 ns
+List delete after a node for: 2000 elements is 48 ns
+List delete before a node for: 2000 elements is 47 ns
+List delete node for: 2000 elements is 164 ns
+List search for: 2000 elements is 2429 ns
+
+Heap insert for: 2000 elements is 5943 ns
+Heap delete max for: 2000 elements is 6080 ns
+Heap delete val for: 2000 elements is 5551 ns
+Heap find max for: 2000 elements is 33 ns
+Heap extract max for: 2000 elements is 6379 ns
+
+Rb tree insert for: 2000 elements is 275 ns
+Rb tree delete root for: 2000 elements is 146 ns
+Rb tree delete node for: 2000 elements is 151 ns
+Rb tree search val for: 2000 elements is 150 ns
+--2500
+Array push front for: 2500 elements is 7424 ns
+Array push back for: 2500 elements is 7676 ns
+Array insert for: 2500 elements is 7602 ns
+Array delete front for: 2500 elements is 7124 ns
+Array delete back for: 2500 elements is 6992 ns
+Array delete at position for: 2500 elements is 7977 ns
+Array search for: 2500 elements is 6441 ns
+
+List push front for: 2500 elements is 76 ns
+List push back for: 2500 elements is 60 ns
+List insert before for: 2500 elements is 61 ns
+List insert after for: 2500 elements is 61 ns
+List pop front for: 2500 elements is 48 ns
+List pop back for: 2500 elements is 46 ns
+List delete after a node for: 2500 elements is 46 ns
+List delete before a node for: 2500 elements is 47 ns
+List delete node for: 2500 elements is 165 ns
+List search for: 2500 elements is 533 ns
+
+Heap insert for: 2500 elements is 7341 ns
+Heap delete max for: 2500 elements is 7502 ns
+Heap delete val for: 2500 elements is 8203 ns
+Heap find max for: 2500 elements is 33 ns
+Heap extract max for: 2500 elements is 7501 ns
+
+Rb tree insert for: 2500 elements is 307 ns
+Rb tree delete root for: 2500 elements is 142 ns
+Rb tree delete node for: 2500 elements is 159 ns
+Rb tree search val for: 2500 elements is 147 ns
+--3000
+Array push front for: 3000 elements is 10996 ns
+Array push back for: 3000 elements is 8800 ns
+Array insert for: 3000 elements is 9226 ns
+Array delete front for: 3000 elements is 8623 ns
+Array delete back for: 3000 elements is 8556 ns
+Array delete at position for: 3000 elements is 9678 ns
+Array search for: 3000 elements is 7728 ns
+
+List push front for: 3000 elements is 77 ns
+List push back for: 3000 elements is 62 ns
+List insert before for: 3000 elements is 62 ns
+List insert after for: 3000 elements is 63 ns
+List pop front for: 3000 elements is 47 ns
+List pop back for: 3000 elements is 46 ns
+List delete after a node for: 3000 elements is 48 ns
+List delete before a node for: 3000 elements is 47 ns
+List delete node for: 3000 elements is 165 ns
+List search for: 3000 elements is 2139 ns
+
+Heap insert for: 3000 elements is 8851 ns
+Heap delete max for: 3000 elements is 8955 ns
+Heap delete val for: 3000 elements is 9722 ns
+Heap find max for: 3000 elements is 37 ns
+Heap extract max for: 3000 elements is 8953 ns
+
+Rb tree insert for: 3000 elements is 318 ns
+Rb tree delete root for: 3000 elements is 145 ns
+Rb tree delete node for: 3000 elements is 167 ns
+Rb tree search val for: 3000 elements is 169 ns
